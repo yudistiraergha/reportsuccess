@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/ump.png">
     <title>Laporan Success 2020</title>
     <!-- Bootstrap Core CSS -->
     <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -108,7 +108,7 @@ input[type="number"] {
                         </div>
                     </li>
                     <li>
-                        <a href="#" class="waves-effect"><i class="glyphicon glyphicon-fire fa-fw"></i> Dashboard</a>
+                        <a href="index.php" class="waves-effect"><i class="glyphicon glyphicon-fire fa-fw"></i> Dashboard</a>
                     </li>
                     <li>
                         <a href="bagian2.php" class="waves-effect"><i class="glyphicon glyphicon-fire fa-fw"></i> Grafik Bagian 2</a>
